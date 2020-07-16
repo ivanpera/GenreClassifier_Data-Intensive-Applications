@@ -4,7 +4,7 @@
 
 # Progetto per il corso di Programmazione di Applicazioni Data Intensive
 
-<a href="https://colab.research.google.com/drive/18JnMHUJ0RU0NblWMcAchCagQjQXqz6rW?usp=sharing"> Link al notebook su Colab. </a>
+[Link al notebook su Colab](https://colab.research.google.com/drive/18JnMHUJ0RU0NblWMcAchCagQjQXqz6rW?usp=sharing)
 
 Il progetto mira all'analisi dei dati e costruzione di un modello di classificazione di canzoni in generi musicali in base al testo di esse.  
 Per maggiori informazioni, aprire il notebook.
